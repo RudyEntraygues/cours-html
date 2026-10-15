@@ -1,3 +1,15 @@
 body {
-    background-color: blue;
+    background-color: orange;
+}
+
+header {
+    background-color: yellow;
+}
+
+main {
+    background-color: green;
+}
+
+footer {
+    background-color: black;
 }
